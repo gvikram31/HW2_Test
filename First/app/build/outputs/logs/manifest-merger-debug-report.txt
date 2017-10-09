@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\moniviku\.android\build-cache\6bc5906ccbefe327354739bb95238afc6b7bd8fc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\moniviku\.android\build-cache\cb0073daaeff0ebc58d7aca6c67449f4d1a3409a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\moniviku\.android\build-cache\edecdcef39122c7a4ff814d8e4eb33278a66d53b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\moniviku\.android\build-cache\a4db87a4b9bce0018b408afd8504cfb6453babda\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\moniviku\.android\build-cache\d40995edc7a87af68f8e758614baa1fc91e9cdad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\moniviku\.android\build-cache\02da8c7576a6e5915eddb5084d26b555ea0774fb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\moniviku\.android\build-cache\55412af1077fe9b17b2dce7f982e46fa046756a5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\moniviku\.android\build-cache\51eecd51ef93208df819a1895ab3813e8802f8f3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\moniviku\.android\build-cache\43a74a0d20d65c861cd4207d21522202d70e0661\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\moniviku\.android\build-cache\93724f8261e806a20a24da4318a361e214fd2b9a\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.moniviku.first.MainActivity
+ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.moniviku.first.DisplayMessageActivity
+ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:parentActivityName
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:19:19-57
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:22:13-24:49
+	android:value
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:24:17-46
+	android:name
+		ADDED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml:23:17-63
+uses-sdk
+INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\moniviku\.android\build-cache\6bc5906ccbefe327354739bb95238afc6b7bd8fc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\moniviku\.android\build-cache\cb0073daaeff0ebc58d7aca6c67449f4d1a3409a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\moniviku\.android\build-cache\edecdcef39122c7a4ff814d8e4eb33278a66d53b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\moniviku\.android\build-cache\a4db87a4b9bce0018b408afd8504cfb6453babda\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\moniviku\.android\build-cache\d40995edc7a87af68f8e758614baa1fc91e9cdad\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\moniviku\.android\build-cache\02da8c7576a6e5915eddb5084d26b555ea0774fb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\moniviku\.android\build-cache\55412af1077fe9b17b2dce7f982e46fa046756a5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\moniviku\.android\build-cache\51eecd51ef93208df819a1895ab3813e8802f8f3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\moniviku\.android\build-cache\43a74a0d20d65c861cd4207d21522202d70e0661\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\moniviku\.android\build-cache\93724f8261e806a20a24da4318a361e214fd2b9a\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\moniviku\.android\build-cache\6bc5906ccbefe327354739bb95238afc6b7bd8fc\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moniviku\AndroidStudioProjects\First\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\moniviku\.android\build-cache\6bc5906ccbefe327354739bb95238afc6b7bd8fc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\moniviku\.android\build-cache\cb0073daaeff0ebc58d7aca6c67449f4d1a3409a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\moniviku\.android\build-cache\edecdcef39122c7a4ff814d8e4eb33278a66d53b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\moniviku\.android\build-cache\a4db87a4b9bce0018b408afd8504cfb6453babda\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\moniviku\.android\build-cache\d40995edc7a87af68f8e758614baa1fc91e9cdad\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\moniviku\.android\build-cache\02da8c7576a6e5915eddb5084d26b555ea0774fb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\moniviku\.android\build-cache\55412af1077fe9b17b2dce7f982e46fa046756a5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\moniviku\.android\build-cache\51eecd51ef93208df819a1895ab3813e8802f8f3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\moniviku\.android\build-cache\43a74a0d20d65c861cd4207d21522202d70e0661\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\moniviku\.android\build-cache\6bc5906ccbefe327354739bb95238afc6b7bd8fc\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\moniviku\.android\build-cache\6bc5906ccbefe327354739bb95238afc6b7bd8fc\output\AndroidManifest.xml:26:9-47
