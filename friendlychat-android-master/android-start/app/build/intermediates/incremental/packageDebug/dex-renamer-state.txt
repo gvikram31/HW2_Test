@@ -1,0 +1,7 @@
+#Sun Oct 08 22:08:25 EDT 2017
+base.0=C\:\\Users\\moniviku\\AndroidStudioProjects\\friendlychat-android-master\\friendlychat-android-master\\android-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ff098f99a7387dfae9a06eb5908b192dd684f039
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\moniviku\\AndroidStudioProjects\\friendlychat-android-master\\friendlychat-android-master\\android-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee202a26dadd4f56a2e4c51f063b4db82cad2bb1\\classes.dex
+base.1=C\:\\Users\\moniviku\\AndroidStudioProjects\\friendlychat-android-master\\friendlychat-android-master\\android-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee202a26dadd4f56a2e4c51f063b4db82cad2bb1
+file.0=C\:\\Users\\moniviku\\AndroidStudioProjects\\friendlychat-android-master\\friendlychat-android-master\\android-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ff098f99a7387dfae9a06eb5908b192dd684f039\\classes.dex
