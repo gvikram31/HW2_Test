@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\cb0073daaeff0ebc58d7aca6c67449f4d1a3409a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf73ad6c965e3a9e848f112877ee02da8b16557a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\edecdcef39122c7a4ff814d8e4eb33278a66d53b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b4d4818f1e551ef6e3eaf00273ae02483e97905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\41e236fa348a46aded4e91efd4cdf63d4ea51f2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0647472456f7e6f3182fec21c6d280c8735595a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\e47fe1a4cb167db29126e2fefdd1c97addd889bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51901b046f01975823b681bcef037b9faffe89fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_de919e55af7252641c53962c12cec08c1c8b69ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\70549c9dcb6fb12379753ec6823caf7cc67a422b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a236682314dd8981988ba8029375ebc1fd5c4238\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\51eecd51ef93208df819a1895ab3813e8802f8f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8bc4d5f608d0917d9d95fbcfe222c042769610f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\8be7eb2b1a8fe2d04d7c2962c7fd04bee5ed1432\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a53900ff8b205c2ceffd41ac24085b95d5019c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\d3b8468b646cc3814d5a0efde905ce90ec1836af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb72a7765eb4e0148ccb5f6f12af2a32566f83aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cb2378c671f136d672556b0ce9c84ba167bff2d">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ee202a26dadd4f56a2e4c51f063b4db82cad2bb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\a4db87a4b9bce0018b408afd8504cfb6453babda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddf09c02ddc87c44b6c3f430a44c0a7acaac669d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\d40995edc7a87af68f8e758614baa1fc91e9cdad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_225072f6948898ef2d96657a142c611c628bca31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\6bc5906ccbefe327354739bb95238afc6b7bd8fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e5f734c67ac27004a88b8e8fc6f9da44687c8b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\37dfecad6e77cdbd6f248c4882e52074f45f7835\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8fbaf4fdcd9c38f606867e3ed71fc16a3c593f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\eef27a2157c07e9e489eedddc5bfe083dfc3f8d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4d398e91b6f663104d01f37f5aeeba531796656\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\88918ec0fecd0d055b8075c7ffb9a98c62dcdf66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_424a1c80c1f4bb87dee7fc9c00adb5771adf527a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\43a74a0d20d65c861cd4207d21522202d70e0661\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a46429fb0a8e87907cadd5292e9f2e70b4505f3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_bbdd55026183ba832802598d1b65b61ce76376e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\db0f55da8e7e3c2f879435362b560e8ddea1e603\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_147a2257dbbabe120234481262ed334ccc7e9a5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\0f3c0576ecf1e3297fcf0b9ca75531d9e33d6ccb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60a1591fdc94c342d40e7a9a6e9719469fc09edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\65f8ba818a4c1beb898f50e789bab84b9a57377e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b30c5f20fb8fbcc3d742240b2fd9ab8a0a9fbc49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\169333dbfb9a42c385fa7b35ccfe313fcbbf2f2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_248b0e8045e3bf9668f3ac4ba4435f252dfcdef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\6cf6efbabd7ef12cdae9242eeffe288d302bf057\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8034e6258c847c5a8896ba5745fe7be233e7ccc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\2b121c70378aba97eb7a110341a43465acccf4f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_474c8d30fe1bf7e9016227c662a98ae9b2c72649\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\55412af1077fe9b17b2dce7f982e46fa046756a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ff8cb9c5154dc246f6b018af07e41436285673a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\239ed225a99b424b03c794a21844e4ff299f74ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5bcd9cbfeedc58f493339841a7c5d0347a39f0b">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6714b7d45ff269fb32b6c53eec03392724265236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\8648fa4257142bb09f57437fffc273a679c6b023\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69d91af602fd34b5488a0374efc40577a3be4ca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ff098f99a7387dfae9a06eb5908b192dd684f039\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\65cbd0075ba57f76c1c3e29076d5a68232698733\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aca65df84fc5aeab46b71fa6a30276e7bbf99879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\d985c7baabab8e311ca87db855b61134bec4a931\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_842b3c8008cafc682edd1665749c06ad9ae7a8e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\02da8c7576a6e5915eddb5084d26b555ea0774fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c508b5f48915a8404193d6517e703a685a66c438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\6c91e72ed430409ee289c457fb837120c3085fd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8f70c0b07eb275090d5b3b9b0daba910152bf20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\ba7ba90a37ce585196a9fa0b6d9bdb0a45580a4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3d60e19f0b6301c30f189f041bc2a159bb3eb51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\53a3007447d131cf4ef28897b04d3c83e6c2600a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d730cdf8e9815c94701939a759cc83e5770cd818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\a422a9d45d3f242bb20089895dd0e77b577963ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33cddabd377c9ce7ecaf63dcbe4ff39c4e8c4037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\34dbc66599e51e0b876c2367a18662b814b1d6f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd0b2b45cd7e6c5ce556d68528b71ec2d3445af4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\633d749d95f10caaa85ca2e2ff14ec7fe75a4db0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ece966ddbfbc07f317f7ee40338a8499ec37c675\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\903e8d49d13ae6d3bff2916d8ad8169d0ffc8650\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb13e74e3d4ffdc81c8e24a0558548933dd90168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\e1c7294d5564c531f841fc942069cc4482145013\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be82fa46121927137604051bdb6fae39825f704a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\6081b8f69cca5fb46a057f3ebf55536b872f38df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8a0239a8773d6ed9258b637fc10bcf9bb17d52f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\53a8f0c9e422b7a25e8f0afc05e4ec43d0149533\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60e35f06055c798c80b7aa2e7bc11aac2a500c61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\fed20551438ce154231911953a78ae1447ad4be6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\friendlychat-android-master\friendlychat-android-master\android-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21fd9935c5c0ac723e21cf16aa451482ca968332\classes.dex" />
+    </item>
+
+</items>
