@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_99d3acc416c2cd06cad090836cac6c962a1da3c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\edecdcef39122c7a4ff814d8e4eb33278a66d53b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b4d4818f1e551ef6e3eaf00273ae02483e97905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\6bc5906ccbefe327354739bb95238afc6b7bd8fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e5f734c67ac27004a88b8e8fc6f9da44687c8b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\55412af1077fe9b17b2dce7f982e46fa046756a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ff8cb9c5154dc246f6b018af07e41436285673a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\93724f8261e806a20a24da4318a361e214fd2b9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de5917f897af586cdfcbd8f36a008ce97cae7489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_de919e55af7252641c53962c12cec08c1c8b69ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\51eecd51ef93208df819a1895ab3813e8802f8f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8bc4d5f608d0917d9d95fbcfe222c042769610f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\02da8c7576a6e5915eddb5084d26b555ea0774fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c508b5f48915a8404193d6517e703a685a66c438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\43a74a0d20d65c861cd4207d21522202d70e0661\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a46429fb0a8e87907cadd5292e9f2e70b4505f3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a58c9a7bbfba63ba1458e5652331b8aa489fa57a">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_26923c3fa27206ca7055d9357db991e1b439c650\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9c8926497c5324d14b34528db4b00592c87dc537\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\d40995edc7a87af68f8e758614baa1fc91e9cdad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_225072f6948898ef2d96657a142c611c628bca31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\a4db87a4b9bce0018b408afd8504cfb6453babda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddf09c02ddc87c44b6c3f430a44c0a7acaac669d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moniviku\.android\build-cache\cb0073daaeff0ebc58d7aca6c67449f4d1a3409a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\moniviku\AndroidStudioProjects\First\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf73ad6c965e3a9e848f112877ee02da8b16557a\classes.dex" />
+    </item>
+
+</items>
