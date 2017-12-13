@@ -5,4 +5,4 @@ This contains code for a chat application which uses google authentication and a
 3. For demo video please go to:- https://youtu.be/UCexTkkb9xc 
 
 
-Added the compatibility test from Amazon Mobile App tester.
+Added the compatibility test from Amazon Mobile App tester and AWS unittests..
